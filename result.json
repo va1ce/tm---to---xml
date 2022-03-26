@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "data": [
+        {
+            "item_id": "2508910596",
+            "market_hash_name": "StatTrak™ P2000 | Imperial Dragon (Minimal Wear)",
+            "class": "4715475148",
+            "instance": "902658099",
+            "time": "1643876548",
+            "event": "sell",
+            "app": 730,
+            "stage": "2",
+            "for": null,
+            "custom_id": "3676005",
+            "received": "51298",
+            "currency": "RUB"
+        },
+        {
+            "item_id": "2508935316",
+            "market_hash_name": "Souvenir Galil AR | Cerberus (Field-Tested)",
+            "class": "2142103940",
+            "instance": "188530139",
+            "time": "1643761846",
+            "event": "sell",
+            "app": 730,
+            "stage": "2",
+            "for": null,
+            "custom_id": null,
+            "received": "156750",
+            "currency": "RUB"
+        },
+        {
+            "item_id": "2508931421",
+            "market_hash_name": "CZ75-Auto | Yellow Jacket (Field-Tested)",
+            "class": "4715350266",
+            "instance": "188530139",
+            "time": "1643652823",
+            "event": "sell",
+            "app": 730,
+            "stage": "2",
+            "for": null,
+            "custom_id": "22949783",
+            "received": "30275",
+            "currency": "RUB"
+        }
+    ]
+}
